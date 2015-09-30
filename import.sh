@@ -13,3 +13,9 @@ echo "<html><body>HELLO!<br>Please add this address in Cydia:<br>wolfposd.github
 DATE=`date +%Y-%m-%d:%H:%M:%S`
 echo $DATE >> index.html
 echo "</body></html>" >> index.html
+
+
+
+git add *
+git commit -m"udpate"
+git push
