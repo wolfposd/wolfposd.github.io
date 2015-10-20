@@ -10,7 +10,7 @@ bzip2 Packages
 echo "<html><body>HELLO!<br>Please add this address in Cydia:<br>wolfposd.github.io<br><br><br><br><br>Last Update " > index.html
 
 
-DATE=`date +%Y-%m-%d:%H:%M:%S`
+DATE=`date +%Y-%m-%d %H:%M:%S`
 echo $DATE >> index.html
 echo "</body></html>" >> index.html
 
