@@ -17,5 +17,6 @@ echo "</body></html>" >> index.html
 
 
 git add *
+git ls-files --deleted -z | xargs -0 git rm
 git commit -m"udpate"
 git push
