@@ -1,0 +1,260 @@
+Package: com.github.wolfposd.nowhatsappreadreceipt
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: wolfposd
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.github.wolfposd.nowhatsappreadreceipt_0.0.3_iphoneos-arm.deb
+Size: 5332
+MD5sum: 7b5dd222ca412ceaca3767a60fa0b987
+SHA1: 9061d5978549fc79dfcea4ff1e1fd8a6b4689156
+SHA256: 43082cd42ed7dff230df7daeef17968ad25c3c07bd0119f884ebe04195cd3e09
+Section: Tweaks
+Description: Disables Read-Receipts in Whatsapp
+Author: wolfposd
+Name: NoWhatsAppReadReceipt
+
+Package: com.github.wolfposd.scrollingvibrator
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: wolfposd
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./deb/com.github.wolfposd.scrollingvibrator_0.0.1-3_iphoneos-arm.deb
+Size: 4474
+MD5sum: 2b865ea0f8c60420fd9f88530b26cee8
+SHA1: 78d1153117ffb922cfd9ded48b60df64892eb521
+SHA256: e3aa8bf5504359f964d7d061029ec28722d695f4a73cae7527b70fcd3fd9c4f2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: wolfposd
+Name: ScrollingVibrator
+
+Package: com.mattcmultimedia.clearonopen
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: Mordred666
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./deb/com.mattcmultimedia.clearonopen_3.0.2_iphoneos-arm.deb
+Size: 4450
+MD5sum: 5a1c0df7f59b394ef25cda42be7a7830
+SHA1: 08b7e850f4a7780285260a939948cbbbf7af3834
+SHA256: b887aeef4db9c008ee567453b461edd11df320ad1d9033b7ef11bed483697393
+Section: Tweaks
+Description: Automatically clear Spotlight results
+Author: Mordred666
+Name: ClearOnOpen
+
+Package: com.mordred.unlimblitzertrial
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Mordred666
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./deb/com.mordred.unlimblitzertrial_0.0.4_iphoneos-arm.deb
+Size: 3912
+MD5sum: 352ea0f84e0ef44dc2496ae179e3455b
+SHA1: ef2e66fc763d7b89e5a452fca0ad79079a1296eb
+SHA256: 8d3938750ef06853b836155ee69508c9893313e93b34df1a1bce02089cb52725
+Section: Tweaks
+Description: Enables unlimited trial period for Blitzer.de Pro
+Author: Mordred666
+Name: unlimblitzertrial
+
+Package: com.posdorfer.noliveclock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: wolfposd
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./deb/com.posdorfer.noliveclock_0.0.2_iphoneos-arm.deb
+Size: 3360
+MD5sum: 2684511dbfc3f53f5de9712c48442310
+SHA1: 01481e8381b9b12f434123f8129ce63e560a08d9
+SHA256: a3bfd6dbc79a5faf89b73e09d9fdf2da9352f4d3ecc5fa9b73d6262248dd966a
+Section: Tweaks
+Description: Removes the live clock animation
+Author: wolfposd
+Name: NoLiveClock
+
+Package: com.posdorfer.transparentvolume8
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Mordredd666
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./deb/com.posdorfer.transparentvolume8_0.0.3_iphoneos-arm.deb
+Size: 19012
+MD5sum: a4480cabff6e94620994f4460fcf6293
+SHA1: bb0d0b719b59a51060f54cca570719a664a0799e
+SHA256: b695293e7a15a09b29201cb5053e68e91cfe2fb1fb61c3412708ddadcfcc9f42
+Section: Tweaks
+Description: Make the volume hud transparent
+Author: Mordredd666
+Name: TransparentVolume8
+
+Package: com.sogeti.esec-lab.KeychainViewer
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/KeychainViewer_0.5.deb
+Size: 299910
+MD5sum: 57f3caee7aed7b784c7c9797fe3442ad
+SHA1: 8c3138447b71f0500117ebb49938159b5ce97085
+SHA256: f5c63400d1e79ae31a4fc766295a9afe2e62f520ac4e936750f76fe21bd789c9
+Section: Application
+Description: View entries in your Keychain
+Author: Mordred
+Name: KeychainViewer
+
+Package: com.wolfposd.jodelenhanced
+Version: 0.0.1-18
+Architecture: iphoneos-arm
+Maintainer: wolfposd
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./deb/com.wolfposd.jodelenhanced_0.0.1-18_iphoneos-arm.deb
+Size: 7972
+MD5sum: 9d311775bd8fdc8b9b35acc14d7c6220
+SHA1: 49f956cff33beb8e1c07d5021dc191c36991bc46
+SHA256: 3c217071eeacd6ed369869bdbac9856f0cc759b696f8854cd6a6d2584e42f9f4
+Section: Tweaks
+Description: Enhances the Jodel App with some cool features
+Author: wolfposd
+Name: JodelEnhanced
+
+Package: de.posdorfer.AvatarSync
+Version: 0.10.0
+Architecture: iphoneos-arm
+Maintainer: mordredd666+cydia@gmail.com
+Filename: ./deb/AvatarSync-0.10.0.deb
+Size: 2122424
+MD5sum: d2933bb606579b2b71bd16c35c068db9
+SHA1: d18c264b7dcdc35a6d4c0a25650680c0da0fa4da
+SHA256: 9cdf3f909674dfb01dc73a89a9a88a1d4d85a50371cf0d06ed37c66b12099886
+Section: Application
+Description: App for applying profile pictures from various sources
+Author: Mordred
+Depiction: http://wolfposd.github.io/depictions/de.posdorfer.avatarsync/index.html
+Name: AvatarSync
+
+Package: de.posdorfer.DylibSearch
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Depends: de.posdorfer.dumpdecrypted
+Filename: ./deb/DylibSearch-0.0.6.deb
+Size: 467964
+MD5sum: 290371066963c5c1e009777fe14bcaa1
+SHA1: ae19c61c531b2f9705e419a831c8a2b5ca16c737
+SHA256: 9ae966d5db2e5b456374fcfdef37e49fb3a03af5a1793fe0188826466b638a9a
+Section: Application
+Description: Searches Dylibs for known Strings. (App is added to homesceen)  (WARNING THIS IS BETA SOFTWARE. SOME THINGS MIGHT NOT WORK AS INTENDED)
+Author: Mordred
+Depiction: http://wolfposd.github.io/depictions/de.posdorfer.dylibsearch/index.html
+Name: DylibSearch
+
+Package: de.posdorfer.KodiWatchRemote
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/KodiWatchRemote.deb
+Size: 399482
+MD5sum: c271f9f19df0805164737025608abdc5
+SHA1: 5ba1a16ef3a486edb8f0d23234e6b9effd76f6e4
+SHA256: 141ca82d97125a181262c06122bfe1d6a3149f24667129b66f4b6feb0be2f6a7
+Section: Application
+Description: Kodi Watch Remote
+Author: Mordred
+Name: KodiWatchRemote
+
+Package: de.posdorfer.MSIconChanger
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/MSIconChanger.deb
+Size: 204618
+MD5sum: d69749f53f84db0797c9dae5937ad644
+SHA1: 9ca411d5ae67eb10c1d565b86baf2957c5f49937
+SHA256: 55c4f8c01da772fc9d40777c6ae3e0c6275964f7d74e875df3d62e4060a96b91
+Section: Application
+Description: App for changing bookmark icons
+Author: Mordred
+Name: MSIconChanger
+
+Package: de.posdorfer.beepbeep9
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Maintainer: Mordred666
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./deb/de.posdorfer.beepbeep9_0.0.1-3_iphoneos-arm.deb
+Size: 4666
+MD5sum: cc15ea352be1c1c7a4a7d018b55723eb
+SHA1: 4083e592aca9612e70303d207c2635fdda096aad
+SHA256: c5aacbec3f4d369d1c523ff36ee86d307a66117e66fdb937e267552d5eafd312
+Section: Tweaks
+Description: Choose what happens when you plug in your device
+Author: Mordred666
+Name: BeepBeep9
+
+Package: de.posdorfer.dumpdecrypted
+Version: 20140214-2
+Architecture: iphoneos-arm
+Maintainer: wolfposd
+Filename: ./deb/dumpdecrypted.deb
+Size: 8998
+MD5sum: f22754d0048757e9e131dfa0c41dc8fb
+SHA1: 9e34ae9f105b5cd1122a3600f89309de17c1727b
+SHA256: e616947656be09b57e0aa0722db2efd2a2ee48060f9fc6711a483d536a0e9f3b
+Section: System
+Description: StefanEssers dumpdecrypted
+Tag: role::developer
+Author: wolfposd
+Depiction: http://wolfposd.github.io/depictions/de.posdorfer.dumpdecrypted/index.html
+Name: dumpdecrypted
+
+Package: de.posdorfer.fbc
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/fbc.deb
+Size: 3783432
+MD5sum: 0593acde34d86ad13ac8df4dac978b60
+SHA1: efd9ae8acd72850b88f7634ef3ca6e2753a621a7
+SHA256: f613d82c23b4baa914d822a98924d0e9d2dcb5562f9287ec8143adf45a497dac
+Section: Application
+Description: FeedbackBeaconContext
+Author: Mordred
+Name: FeedbackBeaconContext
+
+Package: de.posdorfer.zeppelin.deadpool
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/Deadpool.deb
+Size: 3516
+MD5sum: 653d144ae68b9a8d557e0c52a4dccb7d
+SHA1: 4320c62ab9beee5daa39a0778afaa067dceb6bf9
+SHA256: e28d531415cf7ce7a22159511c0a708d5dde73e1be62e23d5bb375d7bca3a78d
+Section: Themes
+Description: A cool Deadpool Zeppelin logo
+Author: Mordred
+Name: Deadpool Zeppelin Logo
+
+Package: de.posdorfer.zeppelin.icons
+Version: 0.0.0.4
+Architecture: iphoneos-arm
+Maintainer: mordredd666@gmail.com
+Filename: ./deb/zeppelinicons.0.0.0.4.deb
+Size: 18600
+MD5sum: 68cdac4e8d3ec0af30dc22c9172d6f2a
+SHA1: d4bab79d72928257a11381e292d4b74cfadb0e1c
+SHA256: 041a027e25f22f3f3ec51a86575c07088392d9d0fb826ffb791133df9a3c2cdc
+Section: Themes
+Description: A variety of Zeppelin icons
+Author: Mordred
+Depiction: http://wolfposd.github.io/depictions/de.posdorfer.zeppelin.icons/index.html
+Name: Zeppelin Icons
+
